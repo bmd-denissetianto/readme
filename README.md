@@ -26,6 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bmd-denissetianto&count_private=true)
-
